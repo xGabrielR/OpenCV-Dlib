@@ -60,4 +60,6 @@ curl -H "Content-Type: application/json" -XPOST 127.0.0.1:9200/img_emb/_doc -d '
 
 ---
 
-[1] [elasticlient](#https://github.com/seznam/elasticlient)
+[1] [elasticlient](https://github.com/seznam/elasticlient): Elasticlient C++ Library.
+
+[2] [YuNet](https://github.com/opencv/opencv_zoo/tree/main/models/face_detection_yunet): YuNet opencv_zoo Repo.
