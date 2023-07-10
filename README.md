@@ -4,6 +4,9 @@
 
 ### Project Description
 
+![image](https://github.com/xGabrielR/OpenCV-Dlib/assets/75986085/5fc37c24-bdda-4f7e-b314-9ca6784ddfb4)
+
+
 This project has a very simple idea. It basically consists of a camera detecting people's faces using yunet, after that the image is processed so that the embedding is collected with Dlib, and this 128 position embedding vector is stored in a document in Elasticsearch for quick query/similarity of images later.
 The idea of ​​using c++ was to test these tools instead of doing it in python.
 
